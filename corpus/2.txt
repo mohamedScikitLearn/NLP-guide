@@ -1,0 +1,2 @@
+Collaborative methods work with the interaction matrix that can also be called rating matrix in the rare case when users provide explicit rating of items. The task of machine learning is to learn a function that predicts utility of items to each user. Matrix is typically huge, very sparse and most of values are missing.
+

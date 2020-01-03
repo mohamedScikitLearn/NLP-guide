@@ -1,0 +1,2 @@
+You can find large scale recommender systems in retail, video on demand, or music streaming. In order to develop and maintain such systems, a company typically needs a group of expensive data scientist and engineers. That is why even large corporates such as BBC decided to outsource its recommendation services.
+

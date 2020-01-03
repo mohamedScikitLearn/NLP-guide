@@ -1,0 +1,2 @@
+The next halt in this AWS vs Azure article is Compute parameter. Computation or compute services are one of the core services when it comes to Cloud Computing, which is understandable as we have the word compute in the term Cloud Computing.
+With the large amount of data being generated these days, there is always a need for faster means of processing. Compute services ensure you can spawn instances in minutes and scale up instances instantly if needed. AWS and Azure both have services that cater to these needs.

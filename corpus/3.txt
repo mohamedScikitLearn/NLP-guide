@@ -1,0 +1,2 @@
+Surprisingly, recommendation of news or videos for media, product recommendation or personalization in travel and retail can be handled by similar machine learning algorithms. Furthermore, these algorithms can be adjusted by using our special query language in each recommendation request.
+
